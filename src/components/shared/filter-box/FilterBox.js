@@ -53,7 +53,7 @@ const FilterBox = () => {
     }
     dispatch(getFilteredModel(filteredModels));
   }, [error, filteredModels]);
-
+ 
   return (
     <Fragment>
       <div className="filterBox">

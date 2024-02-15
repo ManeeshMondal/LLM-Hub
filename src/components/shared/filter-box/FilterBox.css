@@ -31,7 +31,11 @@
   /* .filterBox > fieldset {
     border: 1px solid rgba(0, 0, 0, 0.329);
   } */
-  
+
+ 
+  .filter-button{
+    border-radius: 5px;
+  }
   @media screen and (max-width: 700px) {
     .filterBox {
       width: 80%;

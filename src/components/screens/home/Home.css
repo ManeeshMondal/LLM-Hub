@@ -29,7 +29,7 @@
 }
 
 .banner > a > button {
-  margin-bottom: 5vmax;
+  margin-bottom: 5vmax; 
   margin-top: 1vmax;
   cursor: pointer;
   background-color: white;
@@ -39,8 +39,8 @@
   padding: 1vmax;
   transition: all 0.5s;
   width: 9vmax;
-  font: 500 1vmax "Roboto";
-  border-radius: 3px;
+  font: 500 1vmax ;
+  border-radius: 5px;
 }
 .banner > a > button:hover {
   background-color: rgba(74, 152, 225, 0.831);
@@ -77,4 +77,5 @@
   flex-wrap: wrap;
   justify-content: center; 
   max-width: 100%;
+  
 }
